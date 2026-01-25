@@ -38,4 +38,4 @@ You can run the tool in two ways: directly in Google Colab (easiest, no installa
    git clone https://github.com/SimoDeMores/financial-analysis-tool.git
    cd financial-analysis-tool
 
-Remember to change tickers list and outdir at the bottom to analyze your own stocks!
+Remember to edit the tickers list and outdir at the bottom to analyze your own stocks!
