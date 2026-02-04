@@ -31,7 +31,7 @@ You can run the tool in two ways: directly in Google Colab (easiest, no installa
 
 ### Option 1: Run in Google Colab (Recommended for quick testing)
 1. Open the notebook directly in Colab:
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeKGM2058/automated-financial-reports-tool/blob/main/financial_analysis_tool.ipynb)
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeKGM2058/automated-financial-reports-tool/blob/main/financial-analysis-tool.ipynb)
 
 2. Run all cells (Runtime → Run all).
    - The cell installs all dependencies automatically.
@@ -45,3 +45,4 @@ You can run the tool in two ways: directly in Google Colab (easiest, no installa
    cd automated-financial-reports-tool
 
 Remember to edit the tickers list at the bottom to analyze your own favourite stocks!
+
