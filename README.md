@@ -125,7 +125,7 @@ Financial_Results/              ← git-ignored, created at runtime
 ## Live Sample Reports
 
 Here are a few generated reports produced by the tool (as of March 2026):
-**All links below are PDFs** GitHub renders them directly in your browser.  
+All links below are PDFs. GitHub renders them directly in your browser.  
 (The PowerPoint versions are also in the same `sample_reports/` folder but must be downloaded to open.)
 
 | Ticker       | Mode     | File Type | Direct Link |
