@@ -60,12 +60,12 @@ If something breaks, it's probably because Yahoo changed the data formats.
 
 Here are a few generated reports produced by the tool: 
 
- 000333.SZ  [000333.SZ_ANNUAL_FINAL.pdf](https://github.com/GeorgeKGM2058/automated-financial-reports-tool/blob/main/sample_reports/000333.SZ_ANNUAL_FINAL.pdf)
- 6301.T     [6301.T_ANNUAL_FINAL.pdf](https://github.com/GeorgeKGM2058/automated-financial-reports-tool/blob/main/sample_reports/6301.T_ANNUAL_FINAL.pdf)
- AAPL       [AAPL_ANNUAL_FINAL.pptx](https://github.com/GeorgeKGM2058/automated-financial-reports-tool/blob/main/sample_reports/AAPL_ANNUAL_FINAL.pdf)
- NVDA       [NVDA_TTM_FINAL.pdf](https://github.com/GeorgeKGM2058/automated-financial-reports-tool/blob/main/sample_reports/NVDA_TTM_FINAL.pdf)
- TSLA       [TSLA_TTM_FINAL.pptx](https://github.com/GeorgeKGM2058/automated-financial-reports-tool/blob/main/sample_reports/TSLA_TTM_FINAL.pdf)
- SAP.DE     [SAP.DE_TTM_FINAL.pptx](https://github.com/GeorgeKGM2058/automated-financial-reports-tool/blob/main/sample_reports/SAP.DE_TTM_FINAL.pdf)
+* 000333.SZ  [000333.SZ_ANNUAL_FINAL.pdf](https://github.com/GeorgeKGM2058/automated-financial-reports-tool/blob/main/sample_reports/000333.SZ_ANNUAL_FINAL.pdf)
+* 6301.T     [6301.T_ANNUAL_FINAL.pdf](https://github.com/GeorgeKGM2058/automated-financial-reports-tool/blob/main/sample_reports/6301.T_ANNUAL_FINAL.pdf)
+* AAPL       [AAPL_ANNUAL_FINAL.pptx](https://github.com/GeorgeKGM2058/automated-financial-reports-tool/blob/main/sample_reports/AAPL_ANNUAL_FINAL.pdf)
+* NVDA       [NVDA_TTM_FINAL.pdf](https://github.com/GeorgeKGM2058/automated-financial-reports-tool/blob/main/sample_reports/NVDA_TTM_FINAL.pdf)
+* TSLA       [TSLA_TTM_FINAL.pptx](https://github.com/GeorgeKGM2058/automated-financial-reports-tool/blob/main/sample_reports/TSLA_TTM_FINAL.pdf)
+* SAP.DE     [SAP.DE_TTM_FINAL.pptx](https://github.com/GeorgeKGM2058/automated-financial-reports-tool/blob/main/sample_reports/SAP.DE_TTM_FINAL.pdf)
 
 
 By GeorgeKGM2058. 
